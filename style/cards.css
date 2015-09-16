@@ -1,0 +1,180 @@
+.sprite {
+	background: url("../images/cards.png") no-repeat scroll left top transparent;
+	background-size: 950px 392px !important;
+}
+
+.deck {
+	background: url("../images/deck.png") no-repeat scroll left top transparent;
+	background-size: 100% 100% !important;
+	display: table-cell;
+}
+
+.card {
+	width: 71px;
+    height: 96px;
+    -webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+	margin: 5px;
+}
+
+.clover-1 {
+    background-position: -1px -1px;
+}
+.clover-2 {
+	background-position: -74px -1px;
+}
+.clover-3 {
+	background-position: -147px -1px;
+}
+.clover-4 {
+	background-position: -220px -1px;
+}
+.clover-5 {
+	background-position: -293px -1px;
+}
+.clover-6 {
+	background-position: -366px -1px;
+}
+.clover-7 {
+	background-position: -439px -1px;
+}
+.clover-8 {
+	background-position: -512px -1px;
+}
+.clover-9 {
+	background-position: -585px -1px;
+}
+.clover-10 {
+	background-position: -658px -1px;
+}
+.clover-11 {
+	background-position: -731px -1px;
+}
+.clover-12 {
+	background-position: -804px -1px;
+}
+.clover-13 {
+	background-position: -877px -1px;
+}
+
+.spade-1 {
+    background-position: -1px -99px;
+}
+.spade-2 {
+	background-position: -74px -99px;
+}
+.spade-3 {
+	background-position: -147px -99px;
+}
+.spade-4 {
+	background-position: -220px -99px;
+}
+.spade-5 {
+	background-position: -293px -99px;
+}
+.spade-6 {
+	background-position: -366px -99px;
+}
+.spade-7 {
+	background-position: -439px -99px;
+}
+.spade-8 {
+	background-position: -512px -99px;
+}
+.spade-9 {
+	background-position: -585px -99px;
+}
+.spade-10 {
+	background-position: -658px -99px;
+}
+.spade-11 {
+	background-position: -731px -99px;
+}
+.spade-12 {
+	background-position: -804px -99px;
+}
+.spade-13 {
+	background-position: -877px -99px;
+}
+
+.heart-1 {
+    background-position: -1px -197px;
+}
+.heart-2 {
+	background-position: -74px -197px;
+}
+.heart-3 {
+	background-position: -147px -197px;
+}
+.heart-4 {
+	background-position: -220px -197px;
+}
+.heart-5 {
+	background-position: -293px -197px;
+}
+.heart-6 {
+	background-position: -366px -197px;
+}
+.heart-7 {
+	background-position: -439px -197px;
+}
+.heart-8 {
+	background-position: -512px -197px;
+}
+.heart-9 {
+	background-position: -585px -197px;
+}
+.heart-10 {
+	background-position: -658px -197px;
+}
+.heart-11 {
+	background-position: -731px -197px;
+}
+.heart-12 {
+	background-position: -804px -197px;
+}
+.heart-13 {
+	background-position: -877px -197px;
+}
+
+.rhombu-1 {
+    background-position: -1px -295px;
+}
+.rhombu-2 {
+	background-position: -74px -295px;
+}
+.rhombu-3 {
+	background-position: -147px -295px;
+}
+.rhombu-4 {
+	background-position: -220px -295px;
+}
+.rhombu-5 {
+	background-position: -293px -295px;
+}
+.rhombu-6 {
+	background-position: -366px -295px;
+}
+.rhombu-7 {
+	background-position: -439px -295px;
+}
+.rhombu-8 {
+	background-position: -512px -295px;
+}
+.rhombu-9 {
+	background-position: -585px -295px;
+}
+.rhombu-10 {
+	background-position: -658px -295px;
+}
+.rhombu-11 {
+	background-position: -731px -295px;
+}
+.rhombu-12 {
+	background-position: -804px -295px;
+}
+.rhombu-13 {
+	background-position: -877px -295px;
+}
