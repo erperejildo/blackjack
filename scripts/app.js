@@ -13,14 +13,17 @@ angular
 		};
 
 		$scope.goHit = function() {
+            new Audio('sounds/card.wav').play();
 			$scope.getCard('dealer');
 			$scope.getCard('player');
 		};
 
 		$scope.goStick = function() {
+            new Audio('sounds/add.wav').play();
 			$scope.stick = true;
 			$scope.end = true;
 			if ($scope.playerHand.points > $scope.dealerHand.points && $scope.playerHand.points < 22) {
+				new Audio('sounds/win.wav').play();
 				$scope.youWin = true;
 			} else {
 				$scope.youWin = false;
